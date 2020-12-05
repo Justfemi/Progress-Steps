@@ -80,13 +80,13 @@ body {
     border: 0;
     border-radius: 6px;
     font-family: inherit;
-    padding: 5px;
+    padding: 8px 30px;
     cursor: pointer;
     font-size: 16px;
-    margin: 7px;
+    margin: 5px;
 }
 
-.btn.active {
+.btn:active {
     transform: scale(0.98);
 }
 
